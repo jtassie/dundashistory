@@ -1,0 +1,28 @@
+<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+
+<!--#include virtual="/dundashistory/config_header.html" -->
+
+<title>Dundas Valley Historical Society: Thank you for your submission!</title>
+
+</head>
+
+<body>
+<!--#include virtual="/dundashistory/header.html" -->
+
+<DIV class="wideRightMargin">
+
+<p>Thanks for taking the time to fill out the survey! We value your input and will consider it carefully as we make plans for the future.
+</p>
+
+<p>Best regards,
+</p>
+<p>The DVHS Steering Committee
+</p>
+
+<!--#include virtual="/dundashistory/footer.html" -->
+
+</body>
+</html>
+

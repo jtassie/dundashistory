@@ -1,0 +1,108 @@
+<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+
+<!--#include virtual="/dundashistory/config_header.html" -->
+
+<title>Dundas Valley Historical Society: Survey</title>
+
+</head>
+
+<body>
+<a name="Top"></a>
+
+<!--#include virtual="/dundashistory/header.html" -->
+
+<h3>Survey of Friends &amp; Supporters
+</h3>
+
+<DIV class="wideRightMargin">
+
+<p>The Steering Committee of the DVHS has drafted a survey that we asking you to complete. This will greatly assist us in planning for the future, ensuring the programming offered by the Society reflects your interests. We encourage you to give us feedback expressing any and all concerns and questions you may have about the direction being taken by the DVHS.
+</p>
+
+<p>Please submit this survey by Wednesday, February 18, 2004.
+</p>
+
+<p><strong>Note:</strong> Any personal information (name, telephone, address, e-mail) which you submit to the Steering Committee using this form will be kept confidential and used only for Dundas Valley Historical Society business.
+</p>
+
+<form method="post" action="/cgi-bin/FormMail.pl">
+<input type="hidden" name="recipient" value="1" />
+<input type="hidden" name="subject" value="DVHS Survey Submission" />
+<input type="hidden" name="redirect" value="/dundashistory/surveySubmissionThanks.shtml" />
+
+<ol>
+<li>Do you attend the Speaker Series regularly?
+<br /><input type="radio" name="attendSeries" value="yes"/> Yes
+<input type="radio" name="attendSeries" value="no"/> No
+</li>
+<br /><br />
+<li>What topics would you like to see included in future presentations?
+<br /><textarea name="speakerTopics" cols="40"></textarea>
+</li>
+<br /><br />
+<li>What other programmes would you like to see the Society offer?
+<br /><input type="checkbox" name="programmes" value="lectures"/> More lectures
+<br /><input type="checkbox" name="programmes" value="publications"/> Publications
+<br /><input type="checkbox" name="programmes" value="tours"/> Tours
+<br /><input type="checkbox" name="programmes" value="other"/> Other
+<br /><br />If "Other", please explain:
+<br /><textarea name="otherProgrammes" cols="40"></textarea>
+</li>
+<br /><br />
+<li>Would you consider becoming a paying member of the DVHS?
+<br /><input type="radio" name="becomeMember" value="yes"/> Yes
+<input type="radio" name="becomeMember" value="no"/> No
+<br /><br />Reasons:
+<br /><textarea name="becomeMemberReasons" cols="40"></textarea>
+</li>
+<br /><br />
+<li>Would you consider becoming more involved with Historical Society affairs?
+<br /><input type="radio" name="becomeInvolved" value="yes"/> Yes
+<input type="radio" name="becomeInvolved" value="no"/> No
+<br /><br />If "Yes", how?
+<br /><input type="checkbox" name="moreInvolved" value="elected"/> Sit on an elected council
+<br /><input type="checkbox" name="moreInvolved" value="events"/> Assist with DVHS events
+<br /><input type="checkbox" name="moreInvolved" value="subcommittee"/> Become involved with a sub-committee
+<br /><input type="checkbox" name="moreInvolved" value="other"/> Other
+<br /><br />If "Other", please explain:
+<br /><textarea name="moreInvolvedOtherWays" cols="40"></textarea>
+<br /><br />If you are interested in getting more involved with the DVHS, please fill in your name and contact information so that we can get in touch with you:
+<P>First name:
+<BR><INPUT TYPE="text" NAME="First_Name" SIZE=20></p>
+
+<P>Last name:
+<BR><INPUT TYPE="text" NAME="Last_Name" SIZE=20></p>
+
+<P>Street Address:
+<BR><INPUT TYPE="text" NAME="Address" SIZE=40></p>
+
+<P>City:
+<BR><INPUT TYPE="text" NAME="City" SIZE=20></p>
+
+<P>Province or State:
+<BR><INPUT TYPE="text" NAME="Province_State" SIZE=20></p>
+
+<P>Postal Code:
+<BR><INPUT TYPE="text" NAME="Postal_Code" SIZE=20></p>
+
+<P>Phone number (with area code):
+<BR><INPUT TYPE="text" NAME="Phone" SIZE=20></p>
+
+<P>E-mail address:
+<BR><INPUT TYPE="text" NAME="email" SIZE=20></p>
+
+</li>
+<li>Any other comments or suggestions?
+<br /><textarea name="commentsAndSuggestions" cols="40"></textarea>
+<br /><br /><input type="submit" value="Submit" /> <input type="reset" value="Clear Form" />
+</li>
+</ol>
+
+</form>
+
+<!--#include virtual="/dundashistory/footer.html" -->
+
+</body>
+</html>

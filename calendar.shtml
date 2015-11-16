@@ -1,0 +1,137 @@
+<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+
+<!--#include virtual="/dundashistory/config_header.html" -->
+
+<title>Dundas Valley Historical Society: Calendar of Events</title>
+
+</head>
+
+<body>
+<!--#include virtual="/dundashistory/header.html" -->
+
+<DIV class="wideRightMargin">
+
+<h3>Calendar of Events
+<br />2014&#8211;2015
+</h3>
+
+<p>Speaker Series presentations take place on the second Thursday of the month unless otherwise noted. </p>
+
+<p>All presentations will be held at the Dundas Museum &amp; Archives, 139 Park St. West (at Albert). Doors open at 7 p.m. and the presentations begin at 7:30. There is a $3 admission fee ($2 for members). Seating is limited.</p>
+
+<!-- <DIV CLASS="smalltext"><A HREF="#September">September</A> |
+<A HREF="#October">October</A> | <A HREF="#November">November</A> | <A HREF="#January">January</A> |
+<A HREF="#February">February</A> | <A HREF="#March">March</A> |
+<A HREF="#April">April</A> | <a href="#May">May</a>
+</DIV> -->
+<table class="calendar" cellpadding="3" cellspacing="0" border="0">
+	
+	<tr><td class="month" colspan="4"><h4><a name="September">September 2014</a></h4></td>
+	</tr>
+
+		<tr>
+		<td align="right" valign="top"><strong>11</strong></td>
+		<td valign="top">Dr. Martin Horn</td>
+		<td valign="top">Once More Into the Breach: Causes of the Great War</td>
+		<td>Dr. Horn is Associate Professor of History, McMaster University, and has authored several books on the Great War, focusing on the financing of the war and the politics of industrial collaboration.</td>
+	</tr>
+	
+<tr><td class="month" colspan="4"><h4><a name="October">October 2014</a></h4></td>
+	</tr>
+
+		<tr>
+		<td align="right" valign="top"><strong>16</strong></td>
+		<td valign="top">Dr. Beryl Haslam</td>
+		<td valign="top">We Remember: Occupied Holland, The London Blitz, and the Lady Intelligence Officer</td>
+		<td>Note: This presentation takes place on the <strong>3rd</strong> Thursday of the month.
+		<br />Dr. Beryl Haslam, Professor of History (retired), Moderator. Panel Members: Chris Kruter, Clive Freeman and Keith Green.</td>
+	</tr>	
+
+<tr><td class="month" colspan="4"><h4><a name="November">November 2014</a></h4></td>
+	</tr>
+
+		<tr>
+		<td align="right" valign="top"><strong>13</strong></td>
+		<td valign="top">Cameron Ward</td>
+		<td valign="top">The 77th Regiment: A Brief History</td>
+		<td>Cameron Ward, BA, History and Politics, McMaster University. Military Historian, Collector and Curator</td>
+	</tr>
+	
+<!-- <tr><td class="month" colspan="4"><h4><a name="December">December 2003</a></h4></td>
+	</tr>
+
+		<tr>
+		<td align="right" valign="top"><strong>15</strong></td>
+		<td valign="top">Ray&nbsp;Hobbs</td>
+		<td valign="top">"Things Are Going On Very Badly"&#8212;The Head of the Lake and the War of 1812</td>
+		<td></td>
+	</tr> -->
+
+	<tr><td class="month" colspan="4"><h4><a name="January">January 2015</a></h4></td>
+	</tr>
+
+		<tr>
+		<td align="right" valign="top"><strong>15</strong></td>
+		<td valign="top">Alan Stacey</td>
+		<td valign="top">Restoration of Heritage Houses in Dundas</td>
+		<td>Note: This presentation takes place on the <strong>3rd</strong> Thursday of the month.</td>
+	</tr>
+	
+<tr><td class="month" colspan="4"><h4><a name="February">February 2015</a></h4></td>
+	</tr>
+
+		<tr>
+		<td align="right" valign="top"><strong>12</strong></td>
+		<td valign="top">Randy Kay</td>
+		<td valign="top">Pond to Parking and Back Again? The History of Coldspring Valley</td>
+		<td>Mr. Kay is Coordinator of Volunteers at OPIRG McMaster University and is a local historian with special interest in Cootes Paradise.</td>
+		
+	</tr>
+
+	<tr><td class="month" colspan="4"><h4><a name="March">March 2015</a></h4></td>
+	</tr>
+
+		<tr>
+		<td align="right" valign="top"><strong>12</strong></td>
+		<td valign="top">David MacDougall
+		</td>
+		<td valign="top">Cholera in Dundas &amp; Your Great-Grandmother
+		</td>
+		<td></td>
+
+		</tr>
+	
+<tr>
+<td class="month" colspan="4"><h4><a name="April">April 2015</a></h4></td>
+	</tr>
+
+		<tr>
+		<td align="right" valign="top"><strong>9</strong></td>
+		<td valign="top">Sandra Kiemele
+	</td>
+		<td valign="top">Early Dundas Families</td>
+		<td>Ms. Kiemele is the archivist at the Dundas Museum &amp; Archives</td>
+	</tr>
+<tr>
+<td class="month" colspan="4"><h4><a name="May">May 2015</a></h4></td>
+	</tr>
+
+		<tr>
+		<td align="right" valign="top"><strong>14</strong></td>
+		<td valign="top">Annual General Meeting
+		</td>
+		<td>Speaker TBA</td>
+		<td>&nbsp;</td>
+		
+	</tr>
+</table>
+
+<p>For details of previous Speaker Series presentations, please <a href="/dundashistory/presentation_summaries.shtml">view the archive</a>.</p>
+
+<br />
+<!--#include virtual="/dundashistory/footer.html" -->
+</DIV>
+</body>
+</html>

@@ -1,0 +1,113 @@
+BODY {
+	background-color: #FAF0E6;
+	font-family: "Trebuchet MS", Geneva, Arial, Helvetica, sans-serif;
+	margin-left: 8%;
+	margin-right: 8%;
+}
+
+p {
+	background-color: transparent;
+	font-family: "Trebuchet MS", Geneva, Arial, Helvetica, sans-serif;
+	}
+	
+	.indent {
+		padding-left: 3%;
+}
+
+.first {
+	margin-top:0.6ex;
+	padding-top:0;
+}
+
+h2, h3, h4, h5 {
+	color: #8B4513;
+	background-color: transparent;
+	font-family: "Trebuchet MS", Geneva, Arial, Helvetica, sans-serif;
+	
+}
+
+
+.wideRightMargin {
+		margin-right: 35%;
+}
+
+.FOOTER {
+	background-color: transparent;
+	font : normal normal small "Trebuchet MS", Geneva, Arial, Helvetica, sans-serif;
+	
+}
+
+.morelinespace {
+	background-color: transparent;
+	font-family: "Trebuchet MS", Geneva, Arial, Helvetica, sans-serif;
+	line-height : 1.5;
+}
+
+td.navBar {
+	background: #FDF5E6;
+	border: 1px solid Black;
+	padding: 3px 5px 6px 5px;
+}
+
+table.announcement {
+	border: thick double #8B4513;
+	background-color: #FDF5E6;
+}
+
+table.calendar td.month {
+	background-color: transparent;
+	font-family: "Trebuchet MS", Geneva, Arial, Helvetica, sans-serif;
+	border: thin none Red;
+	}
+
+table.calendar td {
+	background-color: transparent;
+	font-family: "Trebuchet MS", Geneva, Arial, Helvetica, sans-serif;
+	border: 1px solid Black;
+	}
+
+table.calendar {
+	border-collapse: collapse;
+}
+
+
+
+TD {
+	background-color: transparent;
+	font-family: "Trebuchet MS", Geneva, Arial, Helvetica, sans-serif;
+}
+
+
+.TOPTITLE {
+	color: #8B4513;
+	background-color: transparent;
+	font : normal normal normal 130% "Trebuchet MS", Geneva, Arial, Helvetica, sans-serif;
+}
+
+
+.SUBTITLE {
+	color: #8B4513;
+	background-color: transparent;
+	font : normal normal normal 110% "Trebuchet MS", Geneva, Arial, Helvetica, sans-serif;
+}
+
+.SMALLTEXT {
+	background-color: transparent;
+	font : normal normal normal small "Trebuchet MS", Geneva, Arial, Helvetica, sans-serif;
+}
+
+A.inactive:link {
+color: Silver;	
+}
+
+A.inactive:visited {
+color: Silver;	
+}
+
+A.inactive:active {
+color: Silver;	
+}
+/* controls border around images */
+.image {
+border : 2px solid #8B4513;
+}

@@ -1,0 +1,48 @@
+<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+
+<!--#include virtual="/dundashistory/config_header.html" -->
+
+<title>Dundas Valley Historical Society: Contact Information</title>
+
+</head>
+
+<body>
+<!--#include virtual="/dundashistory/header.html" -->
+
+<DIV class="wideRightMargin">
+
+<h3>Contact Information
+</h3>
+
+<p>For more information about the Historical Society or its activities, please
+<script language="JavaScript" type="text/javascript">
+var name="President";
+var address="DundasHistory.ca";
+var link="e-mail Judith Morphet";
+spamfoil();
+</script>, president of the DVHS.
+</p>
+
+<p>You may write the Society at:</p>
+
+<p>Dundas Valley Historical Society
+<br />c/o 125 Park Street West
+<br />Dundas ON&nbsp;&nbsp;L9H 1X6
+</p>
+
+<p>If you have questions or suggestions about the website, or if you would like to enquire about submitting material for posting, please 
+<script language="JavaScript" type="text/javascript">
+var name="nagy";
+var address="unityserve.org";
+var link="e-mail Steven Nagy";
+spamfoil();
+</script>, webmaster.
+</p>
+
+<!--#include virtual="/dundashistory/footer.html" -->
+</DIV>
+</body>
+</html>
+

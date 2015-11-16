@@ -1,0 +1,39 @@
+<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+
+<!--#include virtual="/dundashistory/config_header.html" -->
+
+<title>Dundas Valley Historical Society: Projects &#38; Programmes</title>
+
+</head>
+
+<body>
+<!--#include virtual="/dundashistory/header.html" -->
+
+<DIV class="wideRightMargin">
+
+<h3>Projects &#38; Programmes
+</h3>
+
+<h4>Annual Speaker Series</h4>
+
+<p class="first">Starting in 2002&#8211;2003, even before we were a formally constituted organization, the annual speaker series continues to be one of our most popular programmes. Clare Crozier and Dr. David Richardson of the Dundas Historical Museum organized the first two seasons of speakers on behalf of the Society. For information on this year's lineup, please <a href="/dundashistory/calendar.shtml">consult our calendar</a>. Check out the <a href="http://picasaweb.google.ca/DundasHistory">Dundas Valley Historical Society Photo Album</a> for a selection of photos taken a previous Speaker Series presentations and other DVHS events.
+</p>
+
+<h4>Dundas Quarry Oral History Project</h4>
+
+<p class="first">Executive Council members Mike Brand and John Mills are hard at work researching the history of the Dundas quarry. Please consult this excellent article on the <a href="/dundashistory/articles/DundasQuarryOralHistoryProject.shtml">Dundas Quarry Oral History Project</a> for more information. If you worked at the quarry and would be willing to have your stories recorded for posterity, Mike and John would be delighted to hear from you. Please 
+<script language="JavaScript" type="text/javascript">
+var name="President";
+var address="DundasHistory.ca";
+var link="e-mail Stan Nowak";
+spamfoil();
+</script>, president of the Historical Society, if you wish to participate.
+</p>
+<br />
+<!--#include virtual="/dundashistory/footer.html" -->
+</DIV>
+</body>
+</html>
+

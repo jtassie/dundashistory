@@ -1,0 +1,65 @@
+<!-- <!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+ -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<!--#include virtual="/dundashistory/config_header.html" -->
+
+<meta name="robots" content="noindex,nofollow">
+
+<title>Dundas Valley Historical Society: Tours</title>
+<script src="http://maps.google.com/maps?file=api&v=1&key=ABQIAAAA079ARnMLXx-JtxjCKn0YFRRSKhx6P50jUh4i2D4d-bUjfE9P3BR8Qn2yTExz9F7pcKdDUu49iz1U5w" type="text/javascript"></script>
+</head>
+
+<body>
+<!--#include virtual="/dundashistory/header.html" -->
+
+<DIV class="wideRightMargin">
+
+<h3> Downloadable Audio Tours</h3>
+
+<p>Proof of concept: nothing here is ready for public consumption!
+</p>
+
+<p>To listen to the tour on your computer, click on the link below and open it in your favourite audio player. To download the tour to your computer (so that you can transfer it to a portable audio device), right click on the link and choose "Save Link As..." or "Save Target As...".
+</p>
+
+<p><a href="test1.mp3" id="" class="" style="">Walking Tour #1</a>
+</p>
+ 
+   <div id="map" style="width: 500px; height: 400px"></div>
+<br /> 
+<!--#include virtual="/dundashistory/footer.html" -->
+</DIV>
+    <script type="text/javascript">
+    //<![CDATA[
+
+function createMarker(point,html) {
+        // FF 1.5 fix
+      html = '<div style="white-space:nowrap;">' + html + '</div>';
+        var marker = new GMarker(point);
+        GEvent.addListener(marker, "click", function() {
+          marker.openInfoWindowHtml(html);
+        });
+        return marker;
+      }
+	
+    var map = new GMap(document.getElementById("map"));
+    map.addControl(new GSmallMapControl());
+    map.centerAndZoom(new GPoint(-79.95473027229309, 43.2660735131985), 1);
+
+var point = new GPoint(-79.95473027229309, 43.2660735131985);
+  var marker = createMarker(point, 'Carnegie Gallery');
+  map.addOverlay(marker);
+
+var point = new GPoint(-79.954258520, 43.267312951);
+var marker = createMarker(point, 'St. Paul\'s United Church');
+map.addOverlay(marker);
+
+    //]]>
+    </script>
+</body>
+</html>
+

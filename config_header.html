@@ -1,0 +1,118 @@
+<!--#config timefmt="%d %B %Y" -->
+
+<SCRIPT TYPE="text/javascript" LANGUAGE="JavaScript">
+<!-- 
+
+//detect browser and version being used and refer to the appropriate css
+var detect = navigator.userAgent.toLowerCase();
+var OS,browser,version,total,thestring;
+
+if (checkIt('konqueror'))
+{
+	browser = "Konqueror";
+	OS = "Linux";
+}
+else if (checkIt('safari')) browser = "Safari"
+else if (checkIt('omniweb')) browser = "OmniWeb"
+else if (checkIt('opera')) browser = "Opera"
+else if (checkIt('webtv')) browser = "WebTV";
+else if (checkIt('icab')) browser = "iCab"
+else if (checkIt('msie')) browser = "Internet Explorer"
+else if (!checkIt('compatible'))
+{
+	browser = "Netscape Navigator"
+	version = detect.charAt(8);
+}
+else browser = "An unknown browser";
+
+if (!version) version = detect.charAt(place + thestring.length);
+
+if (!OS)
+{
+	if (checkIt('linux')) OS = "Linux";
+	else if (checkIt('x11')) OS = "Unix";
+	else if (checkIt('mac')) OS = "Mac"
+	else if (checkIt('win')) OS = "Windows"
+	else OS = "an unknown operating system";
+}
+
+function checkIt(string)
+{
+	place = detect.indexOf(string) + 1;
+	thestring = string;
+	return place;
+}
+
+if (browser == "Netscape Navigator" && version < 5)
+            document.write('<link rel="stylesheet" type="text/css" href="/dundashistory/styles.css">');
+
+    else if (browser == "Netscape Navigator" && version >= 5)
+            document.write('<link rel="stylesheet" type="text/css" href="/dundashistory/ns6styles.css">');
+	
+	else
+            document.write('<link rel="stylesheet" type="text/css" href="/dundashistory/msiestyles.css">');
+// -->
+</SCRIPT>
+
+<script language="JavaScript" type="text/javascript">
+<!--
+
+function WM_netscapeCssFix() {
+  /*
+    Source: Webmonkey Code Library
+    (http://www.hotwired.com/webmonkey/javascript/code_library/)
+
+    Author: Taylor
+    Author Email: taylor@wired.com
+    Author URL: http://www.taylor.org/
+    */
+
+  // This part was inspired by Matthew_Baird@wayfarer.com
+  // It gets around another unfortunate bug whereby Netscape 
+  // fires a resize event when the scrollbars pop up. This 
+  // checks to make sure that the window's available size 
+  // has actually changed.
+  if (document.WM.WM_netscapeCssFix.initWindowWidth != window.innerWidth || document.WM.WM_netscapeCssFix.initWindowHeight != window.innerHeight) {
+    document.location = document.location;
+  }
+}
+
+function WM_netscapeCssFixCheckIn() {
+  // This function checks to make sure the version of Netscape 
+  // in use contains the bug; if so, it records the window's 
+  // width and height and sets all resize events to be handled 
+  // by the WM_netscapeCssFix() function.
+  if ((navigator.appName == 'Netscape') && (parseInt(navigator.appVersion) == 4)) {
+    if (typeof document.WM == 'undefined'){
+      document.WM = new Object;
+    }
+    if (typeof document.WM.WM_scaleFont == 'undefined') {
+      document.WM.WM_netscapeCssFix = new Object;
+      document.WM.WM_netscapeCssFix.initWindowWidth = window.innerWidth;
+      document.WM.WM_netscapeCssFix.initWindowHeight = window.innerHeight;
+    }
+    window.onresize = WM_netscapeCssFix;
+  }
+}
+
+WM_netscapeCssFixCheckIn()
+
+
+// -->
+
+</script>
+
+<script language=javascript type="text/javascript">
+  <!--
+function spamfoil()
+{
+  document.write("<a href=" + "mail" + "to:" + name + "@" + address + ">" +link +"</a>");
+}
+  //-->
+</script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="description" content="Dundas Valley Historical Society, Dundas, Ontario, Canada.">
+<meta name="KeyWords" content="Dundas, history, heritage, historical, society, association, past, valley, town, Wentworth, county, Ontario, Canada">
+<meta name="GENERATOR" content="EditPlus">
+<meta name="Author" content="Steven Nagy">

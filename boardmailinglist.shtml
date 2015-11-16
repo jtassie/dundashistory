@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+
+<!--#include virtual="/dundashistory/config_header.html" -->
+
+<title>Dundas Valley Historical Society: Executive Council Mailing List Members</title>
+
+</head>
+
+<body>
+<!--#include virtual="/dundashistory/header.html" -->
+
+<div class="wideRightMargin">
+
+<h3>Executive Council Mailing List Members</h3>
+
+<p class="first">Sending an e-mail message to DundasHistoricalBoard@unityserve.org will distribute it to the following individuals:</p>
+
+
+<p>Nancy Clarke Hauser</p>
+
+<p>Bert Dorpmans</p>
+
+<p>Jean & Clive Freeman</p>
+
+<p>Vicki Hartley</p>
+
+<p>David MacDougall</p>
+
+<p>Judy Morphet</p>
+
+<p>Steven Nagy</p>
+
+<p>Stan Nowak</p>
+
+<p>This list will only relay messages from list members. If anyone else sends a message to DundasHistoricalBoard@unityserve.org, it will not be delivered. (That way, it can't be used by third parties to distribute spam.)</p>
+
+<p>This list is to be used for Dundas Valley Historical Society business only. It is maintained by Steven Nagy. To have a name added to or removed from it, please 
+<script language="JavaScript" type="text/javascript">
+var name="nagy";
+var address="unityserve.org";
+var link="e-mail Steven";
+spamfoil();
+</script>.
+</p>
+<br />
+<!--#include virtual="/dundashistory/footer.html" -->
+</div>
+</body>
+</html>
